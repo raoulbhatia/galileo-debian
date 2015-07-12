@@ -1,3 +1,9 @@
+galileo (0.5devubuntu8-1) UNRELEASED; urgency=medium
+
+  * Properly package man pages.
+
+ -- Raoul Bhatia <raoul@bhatia.at>  Sun, 12 Jul 2015 12:41:08 +0200
+
 galileo (0.5devubuntu8) utopic; urgency=medium
 
   * Dont use lsb-base as dep
