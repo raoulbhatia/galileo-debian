@@ -1,0 +1,53 @@
+galileo (0.5devubuntu8) utopic; urgency=medium
+
+  * Dont use lsb-base as dep
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Tue, 06 Jan 2015 08:39:24 -0500
+
+galileo (0.5devubuntu7) utopic; urgency=medium
+
+  * Bump
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Mon, 05 Jan 2015 21:49:02 -0500
+
+galileo (0.5devubuntu6) utopic; urgency=medium
+
+  * Upstream release, seems to work with charge HR now
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Mon, 05 Jan 2015 21:45:36 -0500
+
+galileo (0.5devubuntu5) utopic; urgency=medium
+
+  * Upstram release
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Sun, 23 Nov 2014 21:05:45 -0500
+
+galileo (0.5devubuntu4) trusty; urgency=medium
+
+  * Upstream release
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Tue, 01 Jul 2014 16:12:47 -0400
+
+galileo (0.5devubuntu3) trusty; urgency=medium
+
+  * Use dh_installinit
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Sun, 27 Apr 2014 15:44:37 -0400
+
+galileo (0.5devubuntu2) trusty; urgency=medium
+
+  * usr/share/upstart/sessions/galileo.conf: Respawn indefinitely
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Sun, 27 Apr 2014 15:18:51 -0400
+
+galileo (0.5devubuntu1) trusty; urgency=medium
+
+  * Add python-requests to deps
+
+ -- Chris Wayne <chris.wayne@canonical.com>  Sun, 27 Apr 2014 15:09:07 -0400
+
+galileo (0.5) trusty; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Benoît Allard <benoit.allard@gmx.de>  Sun, 27 Apr 2014 13:46:22 -0400
